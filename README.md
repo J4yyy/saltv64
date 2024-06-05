@@ -17,4 +17,4 @@ This small CLI Tool helps you generating a Salt and IV in Base64 Format for Ency
 
 
 
-[Binary]: [https://github.com/J4yyy/saltv64/releases/download/0.1.0/saltv64](https://github.com/J4yyy/saltv64/releases)
+[Binary]: [https://github.com/J4yyy/saltv64/releases/download/0.1.0/saltv64
